@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIViewController.h"
+            timestampString = "533133931.568904"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HelpFindCarModel/DesignViewController.swift"
+            timestampString = "534181798.86463"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "DesignViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelpFindCarModel.DesignViewController.__deallocating_deinit"
+                  moduleName = "HelpFindCarModel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/TAMIR/HelpFindCarModel/HelpFindCarModel/DesignViewController.swift"
+                  timestampString = "534180481.422502"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelpFindCarModel.DesignViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HelpFindCarModel.DesignViewController"
+                  moduleName = "HelpFindCarModel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/TAMIR/HelpFindCarModel/HelpFindCarModel/DesignViewController.swift"
+                  timestampString = "534180481.424447"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelpFindCarModel.DesignViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; HelpFindCarModel.DesignViewController"
+                  moduleName = "HelpFindCarModel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/TAMIR/HelpFindCarModel/HelpFindCarModel/DesignViewController.swift"
+                  timestampString = "534180481.426369"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelpFindCarModel.DesignViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelpFindCarModel.DesignViewController&gt;"
+                  moduleName = "HelpFindCarModel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/TAMIR/HelpFindCarModel/HelpFindCarModel/DesignViewController.swift"
+                  timestampString = "534180481.428278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HelpFindCarModel.DesignViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;HelpFindCarModel.DesignViewController&gt;"
+                  moduleName = "HelpFindCarModel"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/TAMIR/HelpFindCarModel/HelpFindCarModel/DesignViewController.swift"
+                  timestampString = "534180481.430263"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

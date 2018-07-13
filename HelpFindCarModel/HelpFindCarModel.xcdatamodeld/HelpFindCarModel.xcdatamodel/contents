@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="11759" systemVersion="17A365" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="BookMarkedCar" representedClassName="BookMarkedCar" syncable="YES" codeGenerationType="class">
+        <attribute name="age" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="bodytype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="colour" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="doors" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="enginesize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fuelconsumption" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fueltype" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="gearbox" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="imageurl" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="BookMarkedCar" positionX="-63" positionY="-18" width="128" height="210"/>
+    </elements>
+</model>
